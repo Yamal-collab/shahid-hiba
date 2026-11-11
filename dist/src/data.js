@@ -21,7 +21,7 @@ export const invite = {
     }
   ],
   groomParents: 'Daughter of Mr. Bava (Late) & Mrs. Suhara',
-  groomHome: "Achipravalappil (H)",
+  groomHome: "Achipravalappil (H), Puzhambram Gramam, Ponnani",
   brideParents: 'Son of Mr. Mohammed (Late) & Mrs. Maimoona',
   brideHome: "Pottachola (H) , Kavanchery",
   duasFrom: 'Friends & Relatives',
