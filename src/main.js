@@ -9,7 +9,7 @@ const eventDate = primaryDateInfo?.instant ?? null;
 const eventLocalDate = primaryDateInfo?.localDate ?? null;
 const formatDate = (options) => primaryDateInfo?.format(options) ?? '';
 
-document.title = 'Fathima & Anshad · Shafat Invitation';
+document.title = 'Shahid & Hiba · Wedding Invitation';
 $('#invitation').innerHTML = renderInvitation();
 
 const displayData = {
